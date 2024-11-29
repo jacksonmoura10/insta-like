@@ -1,4 +1,4 @@
-# Insta-Like
+# BACK-END
 
 Este é um projeto de backend e frontend para criar uma aplicação que simula um feed de posts, onde é possível subir imagens, editar e visualizar posts com suas respectivas descrições geradas automaticamente.
 
